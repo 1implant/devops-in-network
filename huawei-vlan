@@ -1,0 +1,5 @@
+system-view
+vlan batch 10 20
+commit
+save
+y
